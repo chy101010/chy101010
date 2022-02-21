@@ -1,4 +1,5 @@
 ### 👋Hi, I am Ning! I'm third computer science student at Northeastern University.
+* 💬 Love to talk about design pattern and how to structure a codebase!
 * 🏃‍♂️ Incoming Software Developer Co-op @ PowerAdvocate
 
 <!--
