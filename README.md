@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋Hi, I am Ning! I'm third computer science student at Northeastern University.
+* 🏃‍♂️ Incoming Software Developer Co-op @ PowerAdvocate
 
 <!--
 **chy101010/chy101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
