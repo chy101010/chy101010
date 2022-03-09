@@ -1,5 +1,4 @@
 👋Hi, I am Ning! I'm third computer science student at Northeastern University.
-* 💬 Love to talk about design patterns and how to structure a codebase!
 
 <!--
 **chy101010/chy101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
